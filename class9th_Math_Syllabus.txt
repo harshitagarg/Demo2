@@ -1,0 +1,59 @@
+Unit Name of Unit Marks
+1 Number Systems 08
+2 Algebra 24
+3 Coordinate Geometry 08
+4 Geometry 32
+5 Mensuration 18
+6 Statistics and Probability 10
+
+UNIT 1: NUMBER SYSTEMS 
+
+1. Real Numbers
+Irrational numbers , Real numbers and their decimal expansion , Operations on real
+numbers, Laws of exponents for real numbers.
+UNIT 2: ALGEBRA 24
+1. Polynomials
+Definition of a polynomial in one variable, Zeros of a polynomial , Factorization of
+polynomials, algebraic identities –
+and application of these in the factorization of polynomials.
+2. Linear Equations in Two Variables
+Linear equations , Solutions of linear equations , Equations of lines parallel to x- axis
+and y-axis.
+
+UNIT 3: COORDINATE GEOMETRY 
+
+1. Coordinate Geometry
+Coordinate system, Plotting of a point in a plane when its coordinates are given.
+UNIT 4: GEOMETRY 32
+1. Lines and Angles
+Fundamental terms and definitions, Intersecting and non-intersecting lines, Pair of
+angles, Parallel lines and transversal line, Property of addition of angles of a triangle.
+2. Triangles
+Congruence of triangles, Criteria of congruency of triangles- Side-Angle-Side (SAS)
+and Side-Side-Side (SSS), Some properties of a triangle.
+3. Quadrilaterals
+Property of addition of angles of a quadrilateral, Types of quadrilateral, Properties of a
+parallelogram.
+4. Circles
+Circle and its relating terms, Angle at point subtend by a chord, Perpendicular from
+center on a chord, Angle subtend by an arc of a circle- The angle subtended by an arc at
+the center is double the angle subtended by it at any point on the remaining part of the
+circle.
+
+5. Constructions
+
+ Fundamental constructions- Construction of bisectors of a given angle, Construction
+of perpendicular bisector of line segments; Some constructions of triangles –
+Construction of a triangle whose base, base angle and sum of its two sides are given.
+
+UNIT 5: MENSURATION 
+
+1. Areas
+Area of a triangle using Heron's formula .
+2. Surface Areas and Volumes
+Surface areas of cuboid and cube, Volume of a cube and a cuboid.
+
+UNIT 6: STATISTICS and PROBABILITY
+
+1. Statistics
+Presentation of data, Diagrammatic representation of data ( bar graphs).
